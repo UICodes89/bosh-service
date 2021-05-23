@@ -1,1 +1,1 @@
-# bosh-service
+# my-service
